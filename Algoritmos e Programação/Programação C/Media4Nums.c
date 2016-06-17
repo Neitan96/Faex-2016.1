@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int Media4Nums(){
     
     int num1, num2, num3, num4, media;
     

@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Aula13E1D() {
+int main() {
     
     int qtd;
     float num, media, soma = 0;

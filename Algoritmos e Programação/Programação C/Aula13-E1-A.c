@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Aula13E1A() {
+int main() {
     
     int num1;
     

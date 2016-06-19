@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Aula13E1C() {
+int main() {
     
     int num, acumulado = 0, somas = 0;
     

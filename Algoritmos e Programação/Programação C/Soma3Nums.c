@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Soma3Nums(){
+int main(){
     
     int num1, num2, num3, soma;
     
